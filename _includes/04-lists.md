@@ -1,0 +1,2 @@
+* gogogo
+* do not stop
